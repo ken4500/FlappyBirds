@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6969B2D0-BE3D-4DD0-B211-2B08F99FA3F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlappyBirds</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>2CB6AAB8C1D0867D10F0D14D07268C4FC1B4FABB</key>
+		<string>git.gree-dev.net:ken-watanabe/cocos_mock.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlappyBirds/proj.ios_mac/FlappyBirds.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>2CB6AAB8C1D0867D10F0D14D07268C4FC1B4FABB</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>git.gree-dev.net:ken-watanabe/cocos_mock.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>2CB6AAB8C1D0867D10F0D14D07268C4FC1B4FABB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>2CB6AAB8C1D0867D10F0D14D07268C4FC1B4FABB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CocosProjects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
